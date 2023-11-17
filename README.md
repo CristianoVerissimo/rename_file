@@ -9,9 +9,9 @@ sudo apt install rename
 
 #Dê permissão para o arquivo ser executavel:
 
-chmod +x script_rename.sh
+chmod +x app.sh
 
 
 #Execute o comando na pasta raiz onde vc quer modificar:
 
-./script_rename.sh
+./app.sh
