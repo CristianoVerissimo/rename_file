@@ -1,5 +1,7 @@
 # rename_file
 
+ESSE SCRIPT SUBSTITUI TODOS OS ESPAÇOS " " POR HIFEN " - " NAS PASTAS, SUBPASTAS E ARQUIVOS APARTIR DA RAIZ ONDE FOR EXECUTADO O SCRIPT
+
 Districuições baseadas em Debian deve ser instalado o pacote "rename"
 
 #Instalar pacote rename:
